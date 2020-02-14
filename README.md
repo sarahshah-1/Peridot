@@ -1,4 +1,3 @@
-===========================================================
 # Peridot
 
 This notebook implements PERIDOT, a quick execution time prediction tool for Spark Applications. Apart from extracting the model parameters required for PERIDOT, the script also provides a set of functions for extracting and analyzing different task features such as mean and median shuffle write time, executor deserialize CPU time, executor deaserialize time, scheduler delay, executor CPU run time and executor run time.
@@ -27,5 +26,3 @@ Free for academic research use, as long as proper attribution is given and this 
   
  ## Attributions/Thanks
 We also thank David Schulz for his support with the [ARC cluster](https://hpc.ucalgary.ca/quickstart/arc)
-
-=========================================================== 
